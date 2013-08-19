@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+	require 'periodic_table'
+
+	PeriodicTable.lookup 'oxygen'
 
 ## Contributing
 
